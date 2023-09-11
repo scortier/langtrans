@@ -24,7 +24,7 @@ Before you can use "langtrans," make sure you have the following prerequisites i
 To install "langtrans," you can use the following Go command:
 
 ```bash
-go get -u github.com/your-username/langtrans
+go get -u github.com/scortier/langtrans
 ```
 
 ### Usage
