@@ -79,7 +79,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 If you have any questions, suggestions, or feedback, please feel free to contact us at [onlytoaditya@gmail.com](mailto:your-email@example.com).
-
----
-
-You can customize this README template by replacing the placeholders with your project-specific information. Additionally, you can include installation instructions for specific platforms or any additional usage details as needed.
